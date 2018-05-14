@@ -1,0 +1,3 @@
+[submodule "docker/submodule"]
+	path = docker/submodule
+	url = https://github.com/heenming/submodule.git
